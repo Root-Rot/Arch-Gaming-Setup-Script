@@ -3,6 +3,12 @@ Arch Gaming Setup Script
 
 This is a simple script to set up your Arch system for gaming. It installs GameMode and a few choice applications, along with a custom kernel.
 
+Important/How to run:
+chmod +x v1.0.0-Arch-Gaming-Setup-Script.sh
+./v1.0.0-Arch-Gaming-Setup-Script.sh
+
+Do not run this script with sudo!
+
 Custom Kernel Used:
 linux-cachyos
 
